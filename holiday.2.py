@@ -1,13 +1,7 @@
 ch=input()
 
-if ch in("sunday"):
+if ch in("sunday","saturday"):
      
      print(ch,"holiday")
-
-elif ch in("saturday"):
-   
-     print(ch,"holiday")
-
 else:
-  
-     print("invalid")
+  print("no")
