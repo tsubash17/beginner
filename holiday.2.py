@@ -2,6 +2,6 @@ ch=input()
 
 if ch in("sunday","saturday"):
      
-     print(ch,"holiday")
+     print(ch,"yes")
 else:
   print("no")
