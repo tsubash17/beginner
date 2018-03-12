@@ -1,4 +1,4 @@
-t = int(input("Enter time in minutes"))
+t = int(input("Enter time "))
 m = t  % 60
-hrs = (t - m) / 60
-print (int(hrs),int(m))
+h = (t - m) / 60
+print (int(h),int(m))
