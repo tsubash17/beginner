@@ -1,2 +1,2 @@
-a=input()
+ba=input()
 print(len(a))
